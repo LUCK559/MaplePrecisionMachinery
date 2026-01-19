@@ -1,0 +1,95 @@
+.about-page {
+  min-height: calc(100vh - 200px);
+  padding: 4rem 2rem;
+  background: #f9fafb;
+}
+
+.container {
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+.page-title {
+  font-size: 3rem;
+  font-weight: 700;
+  color: #111827;
+  text-align: center;
+  margin: 0 0 3rem 0;
+}
+
+.about-content {
+  background: white;
+  padding: 3rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+}
+
+.about-hero {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.about-company {
+  font-size: 1.75rem;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  color: #111827;
+  margin: 0;
+}
+
+.about-section {
+  margin-top: 2.5rem;
+}
+
+.about-section-title {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #111827;
+  margin: 0 0 0.75rem 0;
+}
+
+.about-paragraph {
+  margin: 0;
+  color: #374151;
+  line-height: 1.8;
+  font-size: 1rem;
+}
+
+.about-list {
+  margin: 0;
+  padding-left: 1.25rem;
+  display: grid;
+  gap: 1rem;
+}
+
+.about-list-item {
+  padding: 1rem 1rem 0.5rem;
+  border: 1px solid #e5e7eb;
+  border-radius: 0.5rem;
+  background: #f9fafb;
+}
+
+.about-list-title {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: #111827;
+}
+
+@media (max-width: 768px) {
+  .about-page {
+    padding: 2rem 1rem;
+  }
+
+  .page-title {
+    font-size: 2rem;
+  }
+
+  .about-content {
+    padding: 2rem 1.5rem;
+  }
+
+  .about-company {
+    font-size: 1.4rem;
+  }
+}

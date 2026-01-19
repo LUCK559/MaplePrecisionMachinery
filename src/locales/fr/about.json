@@ -1,0 +1,32 @@
+{
+  "title": "À propos",
+  "companyName": "MAPLE PRECISION MACHINERY LTD",
+  "sections": {
+    "companyProfile": {
+      "title": "Profil de l'entreprise",
+      "body": "MAPLE PRECISION MACHINERY LTD est un partenaire dédié des fabricants de machines de petite et moyenne taille en Amérique du Nord, spécialisé dans une gamme complète de composants moulés et forgés. Nous proposons une solution clé en main, des services de conception gratuits à la fabrication de précision, avec pour objectifs de réduire vos investissements en R&D, d’atténuer les risques de la chaîne d’approvisionnement et d’améliorer votre compétitivité globale."
+    },
+    "valueCreation": {
+      "title": "Création de valeur",
+      "items": [
+        {
+          "title": "Éliminer les coûts initiaux de R&D",
+          "body": "Nous offrons des services gratuits de conception et de développement pour les équipements et composants mécaniques. Collaborez avec nous pour transformer vos idées en conceptions réalisables avant de vous engager sur une commande, réduisant ainsi à zéro le risque financier lié à l’innovation."
+        },
+        {
+          "title": "Simplifier la chaîne d’approvisionnement et garantir la qualité",
+          "body": "En tant que fournisseur fiable de pièces moulées, forgées et autres composants sur mesure, nous livrons des pièces de haute qualité répondant exactement à vos spécifications. Nos services rationalisent vos achats et assurent la continuité d’une production stable."
+        },
+        {
+          "title": "Se concentrer sur vos compétences clés",
+          "body": "Confiez-nous les tâches complexes de développement et de fabrication des composants afin que votre équipe puisse se concentrer sur les priorités essentielles telles que la conception complète des machines, l’assemblage, les ventes et l’expansion du marché."
+        }
+      ]
+    },
+    "ourCommitment": {
+      "title": "Notre engagement",
+      "body": "MAPLE PRECISION MACHINERY LTD est bien plus qu’un fournisseur — nous sommes votre partenaire stratégique pour renforcer votre compétitivité. Nous nous engageons à maximiser la valeur de chaque dollar investi grâce à une collaboration transparente et une exécution efficace, afin de vous aider à consolider votre position sur les marchés nord-américain et mondial."
+    }
+  }
+}
+

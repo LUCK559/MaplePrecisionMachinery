@@ -1,0 +1,19 @@
+{
+  "allProducts": "All Products",
+  "castParts": "Cast and Forged Parts",
+  "mechanical": "Mechanical Equipment and Parts",
+  "shipFittings": "Ship Fittings",
+  "trailerParts": "Trailer Parts",
+  "filterByCategory": "Filter by Category",
+  "subCategories": {
+    "forgedSteel": "Forged Steel Parts",
+    "nonFerrous": "Non-ferrous Metal Castings",
+    "steelCasting": "Steel Casting",
+    "steelStructure": "Steel Structure",
+    "marineFittings": "Marine Fittings",
+    "marineSteel": "Marine Steel",
+    "portableFlange": "Portable Flange Circumference Milling Machine",
+    "shaftRudder": "Shaft & Rudder System",
+    "shipPropeller": "Ship Propeller"
+  }
+}

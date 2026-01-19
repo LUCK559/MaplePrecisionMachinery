@@ -1,0 +1,23 @@
+{
+    "title": "Contact",
+    "companyName": "MAPLE PRECISION MACHINERY LTD",
+    "sections": {
+      "Telephone Number": {
+        "title": "Numéro de téléphone",
+        "body": "(604)999-7249"
+      },
+      "Email": {
+        "title": "E-mail",
+        "body": "ddp.163@163.com",
+        "body2": "peter@precisioncastings.ca"
+      },
+      "Website": {
+        "title": "Site web",
+        "body": "www.precisioncastings.ca"
+      },
+      "Address": {
+        "title": "Adresse",
+        "body": "150-10451 Shellbridge Way,Richmond BC Canada V6X 2W8"
+      }
+    }
+  }
